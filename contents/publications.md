@@ -1,16 +1,18 @@
-#### Submitted
+#### Projects
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- **Compiler Design (SysY → RISC-V)** | 2025.02 – 2025.06.  
+  Designed and implemented a compiler that translates SysY source code into RISC-V assembly, covering lexical analysis, parsing, intermediate representation, optimization, and code generation.
 
-#### Published
+- **Android Application Protection Detection Tool** | 2025.04 – 2025.06.  
+  Developed a static-analysis tool based on Androguard and other reverse-engineering frameworks to detect and classify APK protection techniques; implemented a user-friendly GUI for visualization and statistical reporting.
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **Web-based Library Management System** | 2024.05.  
+  Designed and implemented a full-stack library management system supporting book intake, catalog search, borrowing/returning workflows, and library card management.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+#### Research Experience
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- **Secure Data Circulation and Controllable Computing** | 2024.05 – 2025.06.  
+  Implemented high-performance secure multi-party computation (MPC) protocols within existing privacy-preserving computation frameworks, including multiplication, comparison, and sign-extraction operators. Collaborated with Huawei research teams to benchmark and reproduce operator performance (runtime, accuracy) and compare against plaintext baselines; project defense rated excellent.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- **Zero-Knowledge Proof Protocols for LLM Security** | 2025.09 – Present.  
+  Designing a zero-knowledge proof protocol for verifying security properties of large language models.
