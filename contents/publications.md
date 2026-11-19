@@ -1,18 +1,21 @@
-#### Projects
 
-- **Compiler Design (SysY → RISC-V)** | 2025.02 – 2025.06.  
-  Designed and implemented a compiler that translates SysY source code into RISC-V assembly, covering lexical analysis, parsing, intermediate representation, optimization, and code generation.
+#### Publications
 
-- **Android Application Protection Detection Tool** | 2025.04 – 2025.06.  
-  Developed a static-analysis tool based on Androguard and other reverse-engineering frameworks to detect and classify APK protection techniques; implemented a user-friendly GUI for visualization and statistical reporting.
-
-- **Web-based Library Management System** | 2024.05.  
-  Designed and implemented a full-stack library management system supporting book intake, catalog search, borrowing/returning workflows, and library card management.
+- **Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling.**  
+  *Advances in Neural Information Processing Systems (NeurIPS 2026).*  
+  **Co-first Author.** Accepted.
+  
+  - Proposes DP-SPD, a privacy-preserving LLM inference framework that combines differential privacy, prefix-conditioned dummy queries, and shuffling. By leveraging shared-prefix processing and KV-cache reuse, the framework protects user query privacy while improving inference efficiency.
+  - [NeurIPS 2026 Official Page](https://neurips.cc/virtual/2026/poster/149860)
 
 #### Research Experience
 
-- **Secure Data Circulation and Controllable Computing** | 2024.05 – 2025.06.  
-  Implemented high-performance secure multi-party computation (MPC) protocols within existing privacy-preserving computation frameworks, including multiplication, comparison, and sign-extraction operators. Collaborated with Huawei research teams to benchmark and reproduce operator performance (runtime, accuracy) and compare against plaintext baselines; project defense rated excellent.
+- **Differentially Private LLM Inference** | Undergraduate Thesis | Sep. 2025 – Jun. 2026.
+  
+  - Designed, implemented, and evaluated a differential-privacy-based method for protecting user inputs during LLM inference.
+  - Received the **Zhejiang University Excellent Undergraduate Thesis Award**.
 
-- **Zero-Knowledge Proof Protocols for LLM Security** | 2025.09 – Present.  
-  Designing a zero-knowledge proof protocol for verifying security properties of large language models.
+- **Secure Data Circulation and Controllable Computing** | Project Lead | May 2024 – Jun. 2025.
+  
+  - Implemented high-performance secure multi-party computation (MPC) protocols, including multiplication, comparison, and sign-extraction operators, within an existing privacy-preserving computing framework.
+  - Collaborated with Huawei teams on operator benchmarking and reproduction, evaluating runtime and numerical accuracy against plaintext baselines. The project defense was rated Excellent.
