@@ -1,16 +1,20 @@
 
-I am currently a master student at Zhejiang University.
+I am currently an M.S. student in Network and Information Security at Zhejiang University.
 
 #### Contact
 
-Email: guozixiong[at]zju.edu.cn     
+Email: [guozixiong@zju.edu.cn](mailto:guozixiong@zju.edu.cn)
 
 #### Education
-M.S. in Information Security, Zhejiang University, 2026—Present
 
-B.S. in Information Security, Zhejiang University, 2022—2026.
+- **M.S. in Network and Information Security**, Zhejiang University, Sep. 2026 – Present.
+  - Advisor: [Prof. Kui Ren](https://person.zju.edu.cn/kuiren).
 
+- **B.S. in Information Security**, Zhejiang University, Sep. 2022 – Jun. 2026.
+  - GPA: **4.49**; Rank: **7/48**.
 
 #### Research Interests
-LLM Security
 
+- Large Language Model (LLM) Security.
+- Privacy-Preserving LLM Inference.
+- LLM Agent Security.
