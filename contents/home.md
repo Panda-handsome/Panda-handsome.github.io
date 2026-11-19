@@ -1,13 +1,15 @@
 
-I am currently an undergraduate student at Zhejiang University.
+I am currently a master student at Zhejiang University.
 
 #### Contact
 
-Email: 3220105844[at]zju.edu.cn     
+Email: guozixiong[at]zju.edu.cn     
 
 #### Education
-B.S. in Information Security, Zhejiang University, 2022—present.
+M.S. in Information Security, Zhejiang University, 2026—Present
+B.S. in Information Security, Zhejiang University, 2022—2026.
+
 
 #### Research Interests
-LLM Security; Differential Privacy;
+LLM Security
 
