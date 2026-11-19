@@ -1,11 +1,10 @@
-- Outstanding Graduate of Zhejiang University, 2026
 
-- Zhejiang University Excellent Bachelor’s Thesis, 2026
+- Outstanding Graduate, Zhejiang University, 2026.
 
-- Chen Tianzhou Scholarship(Zhejiang, China), 2025.
+- Excellent Undergraduate Thesis Award, Zhejiang University, 2026.
 
-- Outstanding Student (Zhejiang, China), 2024.
+- Chen Tianzhou Scholarship, Zhejiang University, 2025.
 
-- Second-Prize Zhejiang University Scholarship, 2024.
+- Second-Class Scholarship, Zhejiang University, 2024.
 
-
+- Outstanding Student, Zhejiang University, 2024.
